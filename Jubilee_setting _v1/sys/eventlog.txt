@@ -1,0 +1,1987 @@
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:44 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:01:30 [warn] HTTP client 192.168.68.65 login succeeded (session key 1338384511)
+2025-07-29 12:58:58 [warn] Date and time set at power up + 00:01:30
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:55 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:57 [warn] HTTP client 192.168.68.65 login succeeded (session key 1136665598)
+2025-07-29 13:12:43 [warn] Date and time set at power up + 00:00:57
+2025-07-29 13:14:27 [warn] Network stopped
+2025-07-29 13:14:34 [warn] Ethernet running, IP address = 192.168.1.2
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:12 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:13 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:38 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:40 [warn] HTTP client 192.168.68.65 login succeeded (session key 161483343)
+2025-07-29 13:27:13 [warn] Date and time set at power up + 00:00:40
+2025-07-29 13:27:41 [warn] HTTP client 192.168.68.90 login succeeded (session key 2595149182)
+2025-07-29 13:28:40 [warn] Error: G1: insufficient axes homed
+ok
+2025-07-29 13:28:42 [warn] Error: G1: insufficient axes homed
+ok
+2025-07-29 13:28:44 [warn] Error: G1: insufficient axes homed
+ok
+2025-07-29 13:28:44 [warn] Error: G1: insufficient axes homed
+ok
+2025-07-29 13:28:45 [warn] Error: G1: insufficient axes homed
+ok
+2025-07-29 13:28:46 [warn] Error: G1: insufficient axes homed
+ok
+2025-07-29 13:29:05 [warn] Warning: G28: Awaiting input, command ignored
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:13 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:14 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:37 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:37 [warn] HTTP client 192.168.68.90 login succeeded (session key 1684045577)
+2025-07-29 13:33:10 [warn] Date and time set at power up + 00:00:37
+2025-07-29 13:33:23 [warn] HTTP client 192.168.68.65 login succeeded (session key 1971043868)
+2025-07-29 13:35:26 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:54 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:55 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:01:08 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:01:09 [warn] HTTP client 192.168.68.65 login succeeded (session key 3671443874)
+2025-07-29 13:36:28 [warn] Date and time set at power up + 00:01:09
+2025-07-29 13:36:30 [warn] HTTP client 192.168.68.90 login succeeded (session key 204171788)
+2025-07-29 13:36:48 [warn] Error: Attempt to move motors when VIN is not in range
+2025-07-29 13:36:50 [warn] Error: Can't turn heater 1 on while in fault state
+2025-07-29 13:37:00 [warn] HTTP client 192.168.68.90 login succeeded (session key 2408221603)
+2025-07-29 13:37:11 [warn] HTTP client 192.168.68.90 login succeeded (session key 58472660)
+2025-07-29 13:37:22 [warn] Error: Attempt to move motors when VIN is not in range
+2025-07-29 13:37:27 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 13:37:27 [warn] Error: Attempt to move motors when VIN is not in range
+2025-07-29 13:38:06 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 13:38:11 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 13:38:12 [warn] Error: Must home axes [XY] before homing [Z]
+2025-07-29 13:38:50 [warn] HTTP client 192.168.68.90 login succeeded (session key 2923744858)
+2025-07-29 13:39:04 [warn] Error: in file macro line 6: G1: insufficient axes homed
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:45 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:46 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:54 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:54 [warn] HTTP client 192.168.68.90 login succeeded (session key 3814072985)
+2025-07-29 13:56:32 [warn] Date and time set at power up + 00:00:54
+2025-07-29 13:56:44 [warn] HTTP client 192.168.68.65 login succeeded (session key 1933631423)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:24 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:25 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:29 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:30 [warn] HTTP client 192.168.68.65 login succeeded (session key 3596550805)
+2025-07-29 14:01:41 [warn] Date and time set at power up + 00:00:30
+2025-07-29 14:01:41 [warn] HTTP client 192.168.68.90 login succeeded (session key 382631824)
+2025-07-29 14:01:43 [warn] HTTP client 192.168.68.90 login succeeded (session key 584311499)
+2025-07-29 14:01:54 [warn] HTTP client 192.168.68.90 disconnected
+2025-07-29 14:01:57 [warn] HTTP client 192.168.68.90 login succeeded (session key 1418907476)
+2025-07-29 14:04:59 [warn] Error: Can't turn heater 1 on while in fault state
+2025-07-29 14:05:02 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 14:05:05 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:34 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:35 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:39 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:41 [warn] HTTP client 192.168.68.90 login succeeded (session key 1367736339)
+2025-07-29 14:52:46 [warn] Date and time set at power up + 00:00:41
+2025-07-29 14:53:03 [warn] HTTP client 192.168.68.65 login succeeded (session key 1328627264)
+2025-07-29 14:54:33 [warn] Error: Can't turn heater 1 on while in fault state
+2025-07-29 14:54:38 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:34 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:35 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:37 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:37 [warn] HTTP client 192.168.68.65 login succeeded (session key 2054859927)
+2025-07-29 14:55:05 [warn] Date and time set at power up + 00:00:37
+2025-07-29 14:55:07 [warn] HTTP client 192.168.68.90 login succeeded (session key 731915518)
+2025-07-29 14:56:34 [warn] Error: Can't turn heater 1 on while in fault state
+2025-07-29 14:56:37 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 14:57:36 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 14:58:52 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 14:59:11 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:00:21 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:00:27 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:01:12 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:01:48 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:01:54 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:02:07 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:02:40 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:02:45 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:02:56 [warn] Error: in file macro line 22: G1: insufficient axes homed
+2025-07-29 15:09:19 [warn] HTTP client 192.168.68.65 disconnected
+2025-07-29 15:09:22 [warn] HTTP client 192.168.68.65 login succeeded (session key 2492943912)
+2025-07-29 15:13:05 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:21 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:22 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:27 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:28 [warn] HTTP client 192.168.68.65 login succeeded (session key 905232676)
+2025-07-29 15:13:35 [warn] Date and time set at power up + 00:00:28
+2025-07-29 15:13:47 [warn] HTTP client 192.168.68.90 login succeeded (session key 4178510615)
+2025-07-29 15:14:51 [warn] Error: Can't turn heater 1 on while in fault state
+2025-07-29 15:16:17 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:16:17 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:16:21 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 15:17:30 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:04 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:01:05 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:01:08 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:01:10 [warn] HTTP client 192.168.68.65 login succeeded (session key 3900240318)
+2025-07-29 15:18:41 [warn] Date and time set at power up + 00:01:10
+2025-07-29 15:18:41 [warn] HTTP client 192.168.68.90 login succeeded (session key 967119684)
+2025-07-29 15:23:45 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:39 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:40 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:43 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:43 [warn] HTTP client 192.168.68.90 login succeeded (session key 946670116)
+2025-07-29 15:24:52 [warn] Date and time set at power up + 00:00:43
+2025-07-29 15:24:52 [warn] HTTP client 192.168.68.65 login succeeded (session key 2645088435)
+2025-07-29 15:27:45 [warn] Error: Can't turn heater 1 on while in fault state
+2025-07-29 15:35:18 [warn] HTTP client 192.168.68.90 login succeeded (session key 2445445285)
+2025-07-29 15:36:54 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:36:54 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:37:01 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:37:02 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:37:02 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:37:05 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 15:39:05 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:06 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:06 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:10 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 15:39:15 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:15 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:19 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 15:39:31 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:31 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-29 15:39:34 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-29 15:39:45 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:25 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:26 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:29 [warn] Ethernet running, IP address = 192.168.68.78
+power up + 00:00:29 [warn] HTTP client 192.168.68.90 login succeeded (session key 2927935565)
+2025-07-29 15:40:18 [warn] Date and time set at power up + 00:00:29
+2025-07-29 15:40:19 [warn] HTTP client 192.168.68.65 login succeeded (session key 862649312)
+2025-07-29 15:57:46 [warn] HTTP client 192.168.68.65 login succeeded (session key 3867334079)
+2025-07-29 16:27:16 [warn] HTTP client 192.168.68.65 disconnected
+2025-07-29 16:27:22 [warn] HTTP client 192.168.68.65 login succeeded (session key 3801767754)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:32 [warn] Ethernet running, IP address = 192.168.68.56
+power up + 00:01:03 [warn] HTTP client 192.168.68.52 login succeeded (session key 1887470011)
+2025-07-30 09:28:49 [warn] Date and time set at power up + 00:01:03
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:40 [warn] Ethernet running, IP address = 192.168.68.56
+power up + 00:00:40 [warn] HTTP client 192.168.68.52 login succeeded (session key 1631140117)
+2025-07-30 10:29:00 [warn] Error: Failed to home axes X
+2025-07-30 10:29:04 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-30 10:29:04 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-30 10:29:08 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-30 10:29:21 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-30 10:29:21 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-30 10:29:25 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-30 12:15:40 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:25 [warn] Ethernet running, IP address = 192.168.68.56
+power up + 00:00:26 [warn] HTTP client 192.168.68.52 login succeeded (session key 2990574347)
+2025-07-30 13:43:39 [warn] Date and time set at power up + 00:00:26
+2025-07-30 13:43:55 [warn] HTTP client 192.168.68.52 disconnected
+2025-07-30 13:44:01 [warn] HTTP client 192.168.68.52 login succeeded (session key 878340594)
+2025-07-30 16:24:47 [warn] HTTP client 192.168.68.52 login succeeded (session key 3190508583)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:19 [warn] Ethernet running, IP address = 192.168.68.68
+power up + 00:00:38 [warn] HTTP client 192.168.68.67 login succeeded (session key 2962933315)
+2025-07-31 10:15:19 [warn] Date and time set at power up + 00:00:38
+2025-07-31 10:16:07 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:16:07 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:16:11 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:18:37 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:18:37 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:18:46 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:18:47 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:18:47 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:18:56 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:22:34 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:22:34 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:22:44 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:22:48 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:22:48 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:22:58 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:25:28 [warn] Error: in file macro line 1: G1: insufficient axes homed
+2025-07-31 10:25:36 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:25:36 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:25:45 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:25:52 [warn] Error: Failed to home axes X
+2025-07-31 10:25:54 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:25:54 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:26:04 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:28:38 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:28:38 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:28:47 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 10:30:15 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:30:15 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 10:30:24 [warn] Error: in file macro line 6: G1: insufficient axes homed
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:59 [warn] Ethernet running, IP address = 192.168.68.75
+power up + 00:01:22 [warn] HTTP client 192.168.68.67 login succeeded (session key 566931437)
+2025-07-31 13:22:24 [warn] Date and time set at power up + 00:01:22
+2025-07-31 13:22:51 [warn] Error: Failed to home axes X
+2025-07-31 13:22:54 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 13:22:54 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 13:23:03 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 13:25:47 [warn] Error: Driver 0.1 error: phase A short to Vin
+2025-07-31 13:28:05 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:26 [warn] Ethernet running, IP address = 192.168.68.75
+power up + 00:00:26 [warn] HTTP client 192.168.68.67 login succeeded (session key 3214223991)
+2025-07-31 14:04:54 [warn] Date and time set at power up + 00:00:26
+2025-07-31 14:05:00 [warn] HTTP client 192.168.68.67 disconnected
+2025-07-31 14:05:07 [warn] HTTP client 192.168.68.67 login succeeded (session key 3619427527)
+2025-07-31 14:05:37 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:05:37 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:05:46 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 14:06:11 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:24 [warn] Ethernet running, IP address = 192.168.68.75
+power up + 00:00:24 [warn] HTTP client 192.168.68.67 login succeeded (session key 3121598099)
+2025-07-31 14:27:10 [warn] Date and time set at power up + 00:00:24
+2025-07-31 14:27:38 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:27:38 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:27:47 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 14:27:53 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:25 [warn] Ethernet running, IP address = 192.168.68.75
+power up + 00:00:25 [warn] HTTP client 192.168.68.67 login succeeded (session key 1902038602)
+2025-07-31 14:35:34 [warn] Date and time set at power up + 00:00:25
+2025-07-31 14:36:55 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:36:55 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:37:04 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 14:40:30 [warn] HTTP client 192.168.68.84 login succeeded (session key 4101564689)
+2025-07-31 14:41:13 [warn] Error: Must home axes [XY] before homing [Z]
+2025-07-31 14:41:33 [warn] Error: Failed to home axes X
+2025-07-31 14:41:43 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:41:43 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:41:52 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 14:41:53 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:41:53 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:42:02 [warn] Error: in file macro line 6: G1: insufficient axes homed
+2025-07-31 14:44:52 [warn] Error:  at column 6: G92: expected number after 'X'
+2025-07-31 14:48:25 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:48:25 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:48:26 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:48:26 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:48:26 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:49:06 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:49:06 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:49:06 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:49:30 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 14:49:30 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:49:30 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:49:30 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:02 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:02 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:02 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:26 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 14:56:27 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:27 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:28 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:28 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 14:56:28 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:26 [warn] Ethernet running, IP address = 192.168.68.75
+power up + 00:00:26 [warn] HTTP client 192.168.68.84 login succeeded (session key 3613545776)
+2025-07-31 15:23:23 [warn] Date and time set at power up + 00:00:26
+2025-07-31 15:23:24 [warn] HTTP client 192.168.68.67 login succeeded (session key 4197564031)
+2025-07-31 15:26:45 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:26:45 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:26:45 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:19 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:19 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:19 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:26 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:26 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:26 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:27 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 15:27:29 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:29 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:29 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:36 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:36 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:36 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:36 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 15:27:40 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:40 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:40 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:47 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 15:27:51 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:51 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:51 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:58 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:58 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:27:58 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 15:27:58 [warn] Error: Failed to load height map from file 0:/sys/heightmap.csv: bad header line or wrong version header
+2025-07-31 15:27:58 [warn] Error: Failed to load height map from file 0:/sys/heightmap.csv: bad header line or wrong version header
+2025-07-31 15:27:58 [warn] Error: G29: Probe was not triggered during probing move
+2025-07-31 15:28:01 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:28:01 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:28:01 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:28:41 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:28:41 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:28:41 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:29:05 [warn] Error: G30: Probe was not triggered during probing move
+2025-07-31 15:29:05 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:29:06 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:29:06 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-07-31 15:29:20 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:48 [warn] Ethernet running, IP address = 192.168.68.73
+power up + 00:01:02 [warn] HTTP client 192.168.68.54 login succeeded (session key 3662752240)
+2025-08-04 15:51:52 [warn] Date and time set at power up + 00:01:02
+2025-08-04 15:52:04 [warn] Warning: Driver 0.2 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:52:11 [warn] Warning: Driver 0.2 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:53:21 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:53:25 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:53:25 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:53:27 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:42 [warn] Ethernet running, IP address = 192.168.68.73
+power up + 00:00:43 [warn] HTTP client 192.168.68.54 login succeeded (session key 440907055)
+2025-08-04 15:54:12 [warn] Date and time set at power up + 00:00:43
+2025-08-04 15:54:51 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:54:54 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:54:54 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 15:54:56 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:26 [warn] Ethernet running, IP address = 192.168.68.73
+power up + 00:01:28 [warn] HTTP client 192.168.68.54 login succeeded (session key 2295243261)
+2025-08-04 15:56:27 [warn] Date and time set at power up + 00:01:28
+2025-08-04 16:04:32 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:15 [warn] Ethernet running, IP address = 192.168.68.73
+power up + 00:00:15 [warn] HTTP client 192.168.68.54 login succeeded (session key 3846022270)
+2025-08-04 16:05:32 [warn] Date and time set at power up + 00:00:15
+2025-08-04 16:06:24 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 16:06:24 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 16:06:24 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 16:06:26 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:27 [warn] Ethernet running, IP address = 192.168.68.73
+power up + 00:01:29 [warn] HTTP client 192.168.68.54 login succeeded (session key 1156913591)
+2025-08-04 16:07:45 [warn] Date and time set at power up + 00:01:29
+2025-08-04 16:10:29 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 16:10:29 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 16:10:29 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-04 16:10:31 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:04 [warn] Ethernet running, IP address = 192.168.68.73
+power up + 00:01:06 [warn] HTTP client 192.168.68.54 login succeeded (session key 1906563201)
+2025-08-04 16:11:39 [warn] Date and time set at power up + 00:01:06
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:02:14 [warn] Ethernet running, IP address = 192.168.68.65
+power up + 00:02:44 [warn] HTTP client 192.168.68.64 login succeeded (session key 2626193041)
+2025-08-05 09:51:23 [warn] Date and time set at power up + 00:02:44
+2025-08-05 09:52:04 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 09:52:04 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 09:52:04 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 09:52:06 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.65
+power up + 00:00:14 [warn] HTTP client 192.168.68.64 login succeeded (session key 2522853033)
+2025-08-05 09:52:08 [warn] Date and time set at power up + 00:00:14
+2025-08-05 09:55:42 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:19 [warn] Ethernet running, IP address = 192.168.68.65
+power up + 00:00:19 [warn] HTTP client 192.168.68.64 login succeeded (session key 1226403988)
+2025-08-05 10:25:03 [warn] Date and time set at power up + 00:00:19
+2025-08-05 10:26:11 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 10:26:11 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 10:26:11 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 10:26:12 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:29 [warn] Ethernet running, IP address = 192.168.68.65
+power up + 00:00:31 [warn] HTTP client 192.168.68.64 login succeeded (session key 1247655934)
+2025-08-05 10:26:46 [warn] Date and time set at power up + 00:00:31
+2025-08-05 10:35:57 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:15 [warn] Ethernet running, IP address = 192.168.68.65
+power up + 00:00:16 [warn] HTTP client 192.168.68.64 login succeeded (session key 500235822)
+2025-08-05 11:15:15 [warn] Date and time set at power up + 00:00:16
+2025-08-05 11:15:53 [warn] Warning: 12V under-voltage event (9.4V)
+2025-08-05 11:27:22 [warn] Error: Driver 0.5 error: phase A short to Vin
+2025-08-05 11:57:26 [warn] Warning: 12V under-voltage event (9.3V)
+2025-08-05 12:03:37 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 12:03:37 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 12:03:37 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-05 12:03:38 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:04:00 [warn] Ethernet running, IP address = 192.168.68.65
+power up + 00:04:01 [warn] HTTP client 192.168.68.64 login succeeded (session key 2257479476)
+2025-08-05 12:07:40 [warn] Date and time set at power up + 00:04:01
+2025-08-05 12:07:47 [warn] Error: Failed to home axes X
+2025-08-05 12:07:53 [warn] Error: Failed to home axes X
+2025-08-05 13:20:58 [warn] HTTP client 192.168.68.64 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:03:01 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:03:02 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:04:09 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:04:58 [warn] HTTP client 192.168.68.70 login succeeded (session key 1021888170)
+2025-08-06 11:36:17 [warn] Date and time set at power up + 00:04:58
+2025-08-06 11:36:42 [warn] Error: Failed to home axes X
+2025-08-06 11:37:31 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:37:31 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:37:31 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:37:32 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:37 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:38 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:42 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:43 [warn] HTTP client 192.168.68.70 login succeeded (session key 1271888921)
+2025-08-06 11:38:17 [warn] Date and time set at power up + 00:00:43
+2025-08-06 11:39:57 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:39:57 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:39:57 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:39:59 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:29 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:30 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:33 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:33 [warn] HTTP client 192.168.68.70 login succeeded (session key 3710547814)
+2025-08-06 11:40:32 [warn] Date and time set at power up + 00:00:33
+2025-08-06 11:44:22 [warn] Error: Can't turn heater 1 on while in fault state
+2025-08-06 11:45:58 [warn] Error: Failed to home axes X
+2025-08-06 11:46:39 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:46:39 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:46:39 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:46:41 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:09:07 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:09:08 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:09:15 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:09:15 [warn] HTTP client 192.168.68.70 login succeeded (session key 2720925355)
+2025-08-06 11:56:01 [warn] Date and time set at power up + 00:09:15
+2025-08-06 11:56:23 [warn] Error: Can't turn heater 1 on while in fault state
+2025-08-06 11:56:42 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:56:42 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:56:42 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 11:56:44 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:03:36 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:03:37 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:03:39 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:03:41 [warn] HTTP client 192.168.68.70 login succeeded (session key 3219571271)
+2025-08-06 12:00:27 [warn] Date and time set at power up + 00:03:41
+2025-08-06 12:05:05 [warn] Error: Can't turn heater 1 on while in fault state
+2025-08-06 12:05:25 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:05:25 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:05:25 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:05:27 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:29 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:30 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:32 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:32 [warn] HTTP client 192.168.68.70 login succeeded (session key 2361135213)
+2025-08-06 12:06:01 [warn] Date and time set at power up + 00:00:32
+2025-08-06 12:08:24 [warn] Error: Can't turn heater 1 on while in fault state
+2025-08-06 12:08:49 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:08:49 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:08:49 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:08:51 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:04:17 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:04:18 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:04:21 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:04:21 [warn] HTTP client 192.168.68.70 login succeeded (session key 2838363955)
+2025-08-06 12:13:04 [warn] Date and time set at power up + 00:04:21
+2025-08-06 12:13:34 [warn] Error: M226: use M226/600/601 only within a file being printed
+2025-08-06 12:17:19 [warn] Error: Can't turn heater 1 on while in fault state
+2025-08-06 12:17:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:17:46 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:17:46 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:17:48 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:05:56 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:05:57 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:06:01 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:06:01 [warn] HTTP client 192.168.68.70 login succeeded (session key 2202696248)
+2025-08-06 12:23:49 [warn] Date and time set at power up + 00:06:01
+2025-08-06 12:34:20 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:12 [warn] Error: in file macro line 11: G1: insufficient axes homed
+ok
+power up + 00:00:13 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+power up + 00:00:23 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:25 [warn] HTTP client 192.168.68.70 login succeeded (session key 632540940)
+2025-08-06 12:34:50 [warn] Date and time set at power up + 00:00:25
+2025-08-06 12:35:08 [warn] Error: Must home axes [XY] before homing [Z]
+2025-08-06 12:35:19 [warn] Error: Can't turn heater 1 on while in fault state
+2025-08-06 12:35:39 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:35:39 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:35:39 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:35:41 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:09 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:06:01 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:17 [warn] HTTP client 192.168.68.70 login succeeded (session key 1145187519)
+2025-08-06 12:57:44 [warn] Date and time set at power up + 00:00:17
+2025-08-06 12:58:04 [warn] HTTP client 192.168.68.63 login succeeded (session key 1671997978)
+2025-08-06 12:59:35 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 12:59:42 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 12:59:46 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:59:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:59:46 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 12:59:48 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:08:04 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:08:04 [warn] HTTP client 192.168.68.63 login succeeded (session key 1229882498)
+2025-08-06 13:07:53 [warn] Date and time set at power up + 00:08:04
+2025-08-06 13:07:53 [warn] HTTP client 192.168.68.70 login succeeded (session key 439545870)
+2025-08-06 13:08:10 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:08:23 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:08:26 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:08:26 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:08:26 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:08:28 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:14 [warn] HTTP client 192.168.68.63 login succeeded (session key 1882484509)
+2025-08-06 13:08:43 [warn] Date and time set at power up + 00:00:14
+2025-08-06 13:08:43 [warn] HTTP client 192.168.68.70 login succeeded (session key 3529978529)
+2025-08-06 13:10:20 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:28:11 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:28:16 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:28:17 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:28:17 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:28:18 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:35 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:01:35 [warn] HTTP client 192.168.68.70 login succeeded (session key 2787707128)
+2025-08-06 13:29:57 [warn] Date and time set at power up + 00:01:35
+2025-08-06 13:29:58 [warn] HTTP client 192.168.68.63 login succeeded (session key 1619042374)
+2025-08-06 13:30:26 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:32:09 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:32:12 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:32:13 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:32:13 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:32:15 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:14 [warn] HTTP client 192.168.68.63 login succeeded (session key 2875857322)
+2025-08-06 13:32:29 [warn] Date and time set at power up + 00:00:14
+2025-08-06 13:32:30 [warn] HTTP client 192.168.68.70 login succeeded (session key 4049733576)
+2025-08-06 13:35:10 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:35:18 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:35:25 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:35:25 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:35:27 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:56 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:56 [warn] HTTP client 192.168.68.70 login succeeded (session key 908496892)
+2025-08-06 13:36:28 [warn] Date and time set at power up + 00:00:56
+2025-08-06 13:36:29 [warn] HTTP client 192.168.68.63 login succeeded (session key 2725448551)
+2025-08-06 13:57:24 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:58:03 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 13:58:09 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:58:09 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:58:09 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 13:58:11 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:56 [warn] Ethernet running, IP address = 192.168.68.71
+2025-08-06 13:59:10 [warn] HTTP client 192.168.68.63 login succeeded (session key 975070722)
+2025-08-06 14:01:00 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:01:13 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:14 [warn] HTTP client 192.168.68.63 login succeeded (session key 3940350714)
+2025-08-06 14:01:27 [warn] Date and time set at power up + 00:00:14
+2025-08-06 14:01:27 [warn] HTTP client 192.168.68.70 login succeeded (session key 1730494824)
+2025-08-06 14:01:49 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:02:10 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:02:16 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:02:16 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:02:16 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:02:18 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:45 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:45 [warn] HTTP client 192.168.68.70 login succeeded (session key 2063625578)
+2025-08-06 14:03:08 [warn] Date and time set at power up + 00:00:45
+2025-08-06 14:03:08 [warn] HTTP client 192.168.68.63 login succeeded (session key 454720445)
+2025-08-06 14:03:59 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:04:07 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:04:10 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:04:11 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:04:11 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:04:13 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:23 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:23 [warn] HTTP client 192.168.68.70 login succeeded (session key 2376699839)
+2025-08-06 14:04:37 [warn] Date and time set at power up + 00:00:23
+2025-08-06 14:04:37 [warn] HTTP client 192.168.68.63 login succeeded (session key 1661435670)
+2025-08-06 14:06:12 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:06:13 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:06:20 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:06:24 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:06:25 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:06:25 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:06:27 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:38 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:01:40 [warn] HTTP client 192.168.68.63 login succeeded (session key 3864667614)
+2025-08-06 14:08:06 [warn] Date and time set at power up + 00:01:40
+2025-08-06 14:08:07 [warn] HTTP client 192.168.68.70 login succeeded (session key 2463060448)
+2025-08-06 14:08:43 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:09:04 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:09:09 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:09:09 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:09:09 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:09:11 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:31 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:31 [warn] HTTP client 192.168.68.63 login succeeded (session key 3780202331)
+2025-08-06 14:09:45 [warn] Date and time set at power up + 00:00:31
+2025-08-06 14:09:45 [warn] HTTP client 192.168.68.70 login succeeded (session key 1260680824)
+2025-08-06 14:10:19 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:10:19 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:10:19 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:10:27 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:10:27 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:10:27 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:10:40 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:10:40 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:10:40 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:11:05 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:11:07 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:16 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:16 [warn] HTTP client 192.168.68.70 login succeeded (session key 2716422158)
+2025-08-06 14:11:27 [warn] Date and time set at power up + 00:00:16
+2025-08-06 14:11:27 [warn] HTTP client 192.168.68.63 login succeeded (session key 3060538519)
+2025-08-06 14:12:09 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:12:18 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:12:21 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:12:34 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:12:43 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:13:12 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:13:19 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:13:27 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:13:31 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:13:37 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:14:11 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:14:11 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:14:15 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:14:15 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:14:18 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:14:18 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:14:41 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:14:41 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:14:47 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:14:47 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:15:07 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:15:07 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:15:09 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:15:09 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:15:13 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:15:13 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:15:15 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:15:15 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:16:08 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.71
+power up + 00:00:14 [warn] HTTP client 192.168.68.63 login succeeded (session key 3469663111)
+2025-08-06 14:17:26 [warn] Date and time set at power up + 00:00:14
+2025-08-06 14:17:28 [warn] HTTP client 192.168.68.70 login succeeded (session key 1646839217)
+2025-08-06 14:17:36 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:17:36 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:17:39 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:17:39 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:18:51 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:18:51 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:18:54 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:18:54 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:19:17 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:19:17 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:20:33 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:20:33 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:20:37 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:20:38 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:20:55 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:20:55 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:20:57 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:20:57 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:26 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:26 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:29 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:29 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:32 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:32 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:34 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:34 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:39 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:39 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:41 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:41 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:45 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:45 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:47 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:21:47 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:59 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:21:59 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:22:01 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:22:01 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:22:53 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:22:53 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:22:55 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:22:55 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:22:59 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:22:59 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:02 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:23:02 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:41 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:23:41 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:44 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:44 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:23:46 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:23:49 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:49 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:23:53 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:23:53 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:56 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:23:56 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:13 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:13 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:16 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:16 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:18 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:19 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:21 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:21 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:46 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:48 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:48 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:52 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:29:52 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:55 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:29:55 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:00 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:00 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:02 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:02 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:22 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:22 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:25 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:25 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:29 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:29 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:31 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:31 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:36 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:36 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:39 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:39 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:42 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:42 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:45 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:45 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:48 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:48 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:51 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:51 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:55 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:55 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:30:57 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:30:57 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:31:03 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:31:03 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:31:05 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:31:05 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:21 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:21 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:24 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:24 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:27 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:27 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:30 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:30 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:33 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:33 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:36 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:36 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:46 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:49 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:49 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:51 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:51 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:53 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:53 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:55 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:55 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:35:57 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:35:57 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:15 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:15 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:18 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:18 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:20 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:20 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:22 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:22 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:25 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:25 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:27 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:27 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:30 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:36:30 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:32 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:36:32 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:10 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:10 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:13 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:13 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:14 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:14 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:16 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:16 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:21 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:21 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:23 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:23 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:31 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:31 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:33 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:33 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:40 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:40 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:38:42 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:38:42 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:39:07 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:39:07 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:39:09 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:39:09 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:39:45 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:39:45 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:39:47 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:39:47 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:39:51 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:39:51 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:39:53 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:39:53 [warn] Warning: Driver 0.4 warning: phase A may be disconnected
+2025-08-06 14:41:24 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:41:26 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:41:30 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:41:32 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:42:28 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:42:30 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:42:33 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:42:36 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:42:38 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:42:41 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:58:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:58:48 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:59:32 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:59:34 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:59:46 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:59:48 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:59:50 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 14:59:52 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-06 15:08:56 [warn] Warning: 12V under-voltage event (9.3V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:25 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:01:09 [warn] HTTP client 192.168.68.55 login succeeded (session key 3150878569)
+2025-08-08 16:02:36 [warn] Date and time set at power up + 00:01:09
+2025-08-08 16:06:15 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:06:15 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:06:17 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:07:52 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:07:52 [warn] HTTP client 192.168.68.55 login succeeded (session key 3615189270)
+2025-08-08 16:14:11 [warn] Date and time set at power up + 00:07:52
+2025-08-08 16:14:43 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:14:43 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:14:43 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:14:44 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:16 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:00:17 [warn] HTTP client 192.168.68.55 login succeeded (session key 3360933750)
+2025-08-08 16:15:01 [warn] Date and time set at power up + 00:00:17
+2025-08-08 16:19:47 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:19 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:00:20 [warn] HTTP client 192.168.68.55 login succeeded (session key 3587085075)
+2025-08-08 16:20:13 [warn] Date and time set at power up + 00:00:20
+2025-08-08 16:20:50 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:20:50 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:20:50 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:20:52 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:28 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:00:28 [warn] HTTP client 192.168.68.55 login succeeded (session key 2478041662)
+2025-08-08 16:21:10 [warn] Date and time set at power up + 00:00:28
+2025-08-08 16:28:22 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:47 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:01:47 [warn] HTTP client 192.168.68.55 login succeeded (session key 1553010302)
+2025-08-08 16:30:08 [warn] Date and time set at power up + 00:01:47
+2025-08-08 16:44:40 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:00:13 [warn] HTTP client 192.168.68.55 login succeeded (session key 2825597466)
+2025-08-08 16:44:58 [warn] Date and time set at power up + 00:00:13
+2025-08-08 16:52:24 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:52:24 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:52:24 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2025-08-08 16:52:26 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:25 [warn] Ethernet running, IP address = 192.168.68.63
+power up + 00:00:25 [warn] HTTP client 192.168.68.55 login succeeded (session key 824091629)
+2025-08-08 16:52:53 [warn] Date and time set at power up + 00:00:25
+2025-08-08 16:54:18 [warn] Error: G1: insufficient axes homed
+2025-08-08 17:03:47 [warn] HTTP client 192.168.68.55 login succeeded (session key 1405311199)
+2025-08-08 17:08:08 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:53 [warn] Ethernet running, IP address = 192.168.68.60
+power up + 00:01:52 [warn] HTTP client 192.168.68.58 login succeeded (session key 1562153666)
+2025-08-20 09:47:39 [warn] Date and time set at power up + 00:01:52
+2025-08-20 10:13:47 [warn] HTTP client 192.168.68.58 disconnected
+2025-08-20 10:13:52 [warn] HTTP client 192.168.68.58 login succeeded (session key 2409240712)
+2025-08-20 10:17:37 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:17:13 [warn] Ethernet running, IP address = 192.168.68.66
+power up + 00:18:14 [warn] HTTP client 192.168.68.62 login succeeded (session key 2854476951)
+2025-11-24 11:29:12 [warn] Date and time set at power up + 00:18:14
+2025-11-24 11:49:41 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:20:53 [warn] Ethernet running, IP address = 192.168.68.66
+power up + 00:21:05 [warn] HTTP client 192.168.68.62 login succeeded (session key 3976825339)
+2025-11-24 12:55:54 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:48 [warn] Ethernet running, IP address = 192.168.68.66
+power up + 00:01:58 [warn] HTTP client 192.168.68.62 login succeeded (session key 2257108996)
+2025-11-24 12:57:53 [warn] Date and time set at power up + 00:01:58
+2025-11-24 13:12:59 [warn] Started printing file 0:/gcodes/T1.gcode
+2025-11-24 13:13:04 [warn] Warning: Driver 0.0 warning: phase A may be disconnected, phase B may be disconnected
+2025-11-24 13:13:04 [warn] Warning: Driver 0.1 warning: phase A may be disconnected, phase B may be disconnected
+2025-11-24 13:13:06 [warn] Cancelled printing file 0:/gcodes/T1.gcode, print time was 0h 0m
+2025-11-24 13:13:06 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:34 [warn] Ethernet running, IP address = 192.168.68.66
+power up + 00:00:34 [warn] HTTP client 192.168.68.62 login succeeded (session key 3057264934)
+2025-11-24 13:13:42 [warn] Date and time set at power up + 00:00:34
+2025-11-24 13:14:48 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:57 [warn] Ethernet running, IP address = 192.168.68.66
+power up + 00:01:00 [warn] HTTP client 192.168.68.62 login succeeded (session key 1835723971)
+2025-11-24 13:15:50 [warn] Date and time set at power up + 00:01:00
+2025-11-24 13:30:48 [warn] Started printing file 0:/gcodes/T2.gcode
+2025-11-24 13:31:08 [warn] Finished printing file 0:/gcodes/T2.gcode, print time was 0h 0m
+2025-11-24 13:31:42 [warn] Started printing file 0:/gcodes/T2.gcode
+2025-11-24 13:32:03 [warn] Finished printing file 0:/gcodes/T2.gcode, print time was 0h 0m
+2025-11-24 13:40:56 [warn] Started printing file 0:/gcodes/T3.gcode
+2025-11-24 13:41:55 [warn] Finished printing file 0:/gcodes/T3.gcode, print time was 0h 0m
+2025-11-24 13:46:57 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:04:42 [warn] Ethernet running, IP address = 192.168.68.66
+power up + 00:04:42 [warn] HTTP client 192.168.68.62 login succeeded (session key 3707026534)
+2025-11-24 13:51:39 [warn] Date and time set at power up + 00:04:42
+2025-11-24 13:55:58 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:47 [warn] Ethernet running, IP address = 192.168.68.69
+power up + 00:02:21 [warn] HTTP client 192.168.68.68 login succeeded (session key 3116511485)
+2025-11-28 11:32:42 [warn] Date and time set at power up + 00:02:21
+2025-11-28 12:17:05 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 03:39:40 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:12:13 [warn] Ethernet running, IP address = 192.168.0.180
+power up + 00:12:18 [warn] Network stopped
+power up + 00:12:32 [warn] Ethernet running, IP address = 192.168.0.180
+power up + 00:12:50 [warn] HTTP client 192.168.0.230 login succeeded (session key 3651215384)
+2026-02-06 14:36:10 [warn] Date and time set at power up + 00:12:50
+2026-02-06 14:36:58 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:36:58 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:36:58 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:37:00 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:05:27 [warn] Ethernet running, IP address = 192.168.0.180
+2026-02-06 14:51:18 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:51:18 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:51:18 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:51:20 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:03:26 [warn] Ethernet running, IP address = 192.168.0.180
+power up + 00:03:27 [warn] HTTP client 192.168.0.230 login succeeded (session key 2580254024)
+2026-02-06 14:54:50 [warn] Date and time set at power up + 00:03:27
+2026-02-06 14:57:21 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:57:21 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:57:21 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:57:23 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:14 [warn] Ethernet running, IP address = 192.168.0.180
+2026-02-06 14:59:54 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:59:54 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:59:54 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2026-02-06 14:59:56 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:05:41 [warn] Ethernet running, IP address = 192.168.0.180
+power up + 00:05:42 [warn] HTTP client 192.168.0.230 login succeeded (session key 1064692933)
+2026-02-06 15:05:41 [warn] Date and time set at power up + 00:05:42
+2026-02-06 15:54:38 [warn] Started printing file 0:/gcodes/G-code v1.gcode
+2026-02-06 15:54:59 [warn] Finished printing file 0:/gcodes/G-code v1.gcode, print time was 0h 0m
+2026-02-06 15:56:17 [warn] Started printing file 0:/gcodes/G-code v1.gcode
+2026-02-06 15:56:39 [warn] Finished printing file 0:/gcodes/G-code v1.gcode, print time was 0h 0m
+2026-02-06 16:05:34 [warn] Started printing file 0:/gcodes/G-code v1 - Multi tool pick n place.gcode
+2026-02-06 16:06:20 [warn] Finished printing file 0:/gcodes/G-code v1 - Multi tool pick n place.gcode, print time was 0h 0m
+2026-02-06 16:06:38 [warn] Started printing file 0:/gcodes/G-code v1 - Multi tool pick n place.gcode
+2026-02-06 16:07:26 [warn] Finished printing file 0:/gcodes/G-code v1 - Multi tool pick n place.gcode, print time was 0h 0m
+2026-02-06 16:07:39 [warn] Started printing file 0:/gcodes/G-code v1 - Multi tool pick n place.gcode
+2026-02-06 16:08:24 [warn] Finished printing file 0:/gcodes/G-code v1 - Multi tool pick n place.gcode, print time was 0h 0m
+2026-02-06 17:18:07 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:43 [warn] Ethernet running, IP address = 192.168.68.84
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.67
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:01:58 [warn] Ethernet running, IP address = 192.168.68.67
+power up + 00:03:36 [warn] HTTP client 192.168.68.64 login succeeded (session key 1718010191)
+2026-08-27 15:34:41 [warn] Date and time set at power up + 00:03:36
+2026-08-27 15:38:04 [warn] Warning: Driver 0.5 warning: phase A may be disconnected, phase B may be disconnected
+2026-08-27 15:38:04 [warn] Warning: Driver 0.3 warning: phase A may be disconnected, phase B may be disconnected
+2026-08-27 15:38:04 [warn] Warning: Driver 0.4 warning: phase A may be disconnected, phase B may be disconnected
+2026-08-27 15:38:05 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:21 [warn] Ethernet running, IP address = 192.168.68.67
+power up + 00:00:22 [warn] HTTP client 192.168.68.64 login succeeded (session key 3514099626)
+2026-08-27 15:38:26 [warn] Date and time set at power up + 00:00:22
+2026-08-27 15:39:23 [warn] Error: G30: Probe was not triggered during probing move
+2026-08-27 15:39:26 [warn] Error: Probe was not triggered during probing move
+2026-08-27 15:57:38 [warn] Error: M1: Pause the print before attempting to cancel it
+2026-08-27 15:57:59 [warn] Error: M1: Pause the print before attempting to cancel it
+2026-08-27 15:58:08 [warn] Error: M1: Pause the print before attempting to cancel it
+2026-08-27 15:59:56 [warn] Error: Heater 1 fault: failed to read sensor: unknownSensor
+2026-08-27 16:06:53 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:29 [warn] Ethernet running, IP address = 192.168.68.67
+power up + 00:00:31 [warn] HTTP client 192.168.68.64 login succeeded (session key 1097037142)
+2026-08-27 16:07:29 [warn] Date and time set at power up + 00:00:31
+2026-08-27 16:11:04 [warn] Error: in file macro line 1: G1: insufficient axes homed
+2026-08-27 16:11:07 [warn] Error: in file macro line 1: G1: insufficient axes homed
+2026-08-27 16:26:37 [warn] Started printing file 0:/gcodes/Center position.gcode
+2026-08-27 16:26:42 [warn] Finished printing file 0:/gcodes/Center position.gcode, print time was 0h 0m
+2026-08-27 16:29:01 [warn] Started printing file 0:/gcodes/center test.gcode
+2026-08-27 16:29:02 [warn] Finished printing file 0:/gcodes/center test.gcode, print time was 0h 0m
+2026-08-27 16:29:42 [warn] Started printing file 0:/gcodes/Center position.gcode
+2026-08-27 16:29:43 [warn] Finished printing file 0:/gcodes/Center position.gcode, print time was 0h 0m
+2026-08-27 16:39:52 [warn] Started printing file 0:/gcodes/HW1.gcode
+2026-08-27 16:40:57 [warn] Finished printing file 0:/gcodes/HW1.gcode, print time was 0h 1m
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:01 [info] Event logging started at level warn
+power up + 00:00:01 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:10 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:11 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:11 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:12 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:12 [warn] Ethernet is disabled.
+power up + 00:09:51 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:03:38 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:11 [warn] Ethernet is disabled.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:00:31 [warn] Error: Must home axes [XY] before homing [Z]
+power up + 00:00:40 [warn] Error: G1: insufficient axes homed
+power up + 00:00:41 [warn] Error: G1: insufficient axes homed
+power up + 00:00:42 [warn] Error: G1: insufficient axes homed
+power up + 00:00:42 [warn] Error: G1: insufficient axes homed
+power up + 00:00:43 [warn] Error: G1: insufficient axes homed
+power up + 00:00:43 [warn] Error: G1: insufficient axes homed
+power up + 00:00:44 [warn] Error: G1: insufficient axes homed
+power up + 00:00:44 [warn] Error: G1: insufficient axes homed
+power up + 00:00:45 [warn] Error: G1: insufficient axes homed
+power up + 00:00:47 [warn] Error: G1: insufficient axes homed
+power up + 00:01:22 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.61
+power up + 00:01:27 [warn] HTTP client 192.168.68.55 login succeeded (session key 2503835285)
+2026-08-31 15:28:09 [warn] Date and time set at power up + 00:01:27
+2026-08-31 15:28:13 [warn] HTTP client 192.168.68.55 login succeeded (session key 1862809671)
+2026-08-31 15:28:38 [warn] Error: Must home axes [XY] before homing [Z]
+2026-08-31 15:31:09 [warn] HTTP client 192.168.68.55 login succeeded (session key 312619914)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:02:02 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:02:33 [warn] HTTP client 192.168.68.55 login succeeded (session key 3319756540)
+2026-08-31 17:52:53 [warn] Date and time set at power up + 00:02:33
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.60
+power up + 00:06:49 [warn] Warning: 12V under-voltage event (9.4V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.60
+power up + 00:00:53 [warn] Error: Failed to home axes X
+power up + 00:01:49 [warn] HTTP client 192.168.68.67 login succeeded (session key 168852375)
+2026-09-04 13:47:00 [warn] Date and time set at power up + 00:01:49
+2026-09-04 14:07:52 [warn] Error: Failed to write to file, error code 1. Card may be full.
+2026-09-04 14:07:52 [warn] Error: Failed to flush data to file. Card may be full.
+2026-09-04 14:07:52 [warn] Error: Could not flush remaining data while finishing upload
+2026-09-04 14:07:52 [warn] Error: Uploaded file size is different (620 vs. expected 310 bytes)
+2026-09-04 14:07:52 [warn] Error: Failed to write to file, error code 1. Card may be full.
+2026-09-04 14:07:52 [warn] Error: Failed to flush data to file. Card may be full.
+2026-09-04 14:07:53 [warn] Error: Failed to write to file, error code 1. Card may be full.
+2026-09-04 14:07:53 [warn] Error: Failed to flush data to file. Card may be full.
+2026-09-04 14:07:53 [warn] Error: Could not flush remaining data while finishing upload
+2026-09-04 14:07:53 [warn] Error: Uploaded file size is different (620 vs. expected 310 bytes)
+2026-09-04 14:07:53 [warn] Error: Failed to write to file, error code 1. Card may be full.
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.68
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.68
+power up + 00:00:44 [warn] HTTP client 192.168.68.57 login succeeded (session key 3272907213)
+2026-09-09 15:42:44 [warn] Date and time set at power up + 00:00:44
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.68
+power up + 00:00:15 [warn] HTTP client 192.168.68.57 login succeeded (session key 1806950015)
+2026-09-09 16:09:33 [warn] Date and time set at power up + 00:00:15
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.68
+power up + 00:00:14 [warn] HTTP client 192.168.68.57 login succeeded (session key 2029818719)
+2026-09-09 16:29:56 [warn] Date and time set at power up + 00:00:14
+2026-09-09 16:30:07 [warn] HTTP client 192.168.68.57 disconnected
+2026-09-09 16:30:16 [warn] HTTP client 192.168.68.57 login succeeded (session key 3371280342)
+2026-09-09 16:34:50 [warn] HTTP client 192.168.68.57 login succeeded (session key 3947145882)
+2026-09-09 16:35:22 [info] Event logging stopped
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:13 [warn] Ethernet running, IP address = 192.168.68.68
+power up + 00:00:14 [warn] HTTP client 192.168.68.57 login succeeded (session key 4071882023)
+2026-09-09 16:35:40 [warn] Date and time set at power up + 00:00:14
+2026-09-09 16:47:03 [warn] Started printing file 0:/gcodes/T1.gcode
+2026-09-09 16:47:18 [warn] Finished printing file 0:/gcodes/T1.gcode, print time was 0h 0m
+2026-09-09 17:41:21 [warn] HTTP client 192.168.68.57 disconnected
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:00:22 [warn] Warning: 12V under-voltage event (9.5V)
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.58
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.67
+power up + 00:00:00 [info] Event logging started at level warn
+power up + 00:00:00 [info] Running: Duet 3 MB6HC v1.02c or later: 3.6.0 (2025-05-25 08:05:42)
+power up + 00:00:09 [warn] Warning: Heater 0 predicted maximum temperature at full power is 614°C
+power up + 00:00:09 [warn] Error: Failed to initialise RTD: badResponse
+power up + 00:00:09 [warn] Warning: Sensor number 1 has not been defined
+power up + 00:00:11 [warn] Warning: Macro file config-override.g not found
+power up + 00:00:14 [warn] Ethernet running, IP address = 192.168.68.59
+power up + 00:00:20 [warn] Error: Must home axes [XY] before homing [Z]
+power up + 00:00:26 [warn] Error: Must home axes [XY] before homing [Z]
+power up + 00:00:40 [warn] Error: Must home axes [XY] before homing [Z]
